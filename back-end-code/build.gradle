@@ -19,24 +19,12 @@ repositories {
 	mavenCentral()
 }
 
-ext {
-	set('springCloudVersion', "Hoxton.SR1")
-}
-
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'org.springframework.cloud:spring-cloud-starter-aws'
-	implementation 'org.springframework.cloud:spring-cloud-starter-aws-jdbc'
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	testCompile 'com.jayway.jsonpath:json-path'
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
-	}
-}
-
-dependencyManagement {
-	imports {
-		mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
 	}
 }
 
