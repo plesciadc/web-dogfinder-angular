@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.danielplescia-dogfinder.iml" filepath="$PROJECT_DIR$/.idea/modules/com.danielplescia-dogfinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.danielplescia-dogfinder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.danielplescia-dogfinder.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.danielplescia-dogfinder.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.danielplescia-dogfinder.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DogFinder/dog-finder-web/dog-finder-web.iml" filepath="$PROJECT_DIR$/DogFinder/dog-finder-web/dog-finder-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogfinder.iml" filepath="$PROJECT_DIR$/.idea/modules/dogfinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogfinder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dogfinder.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogfinder.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dogfinder.test.iml" />
