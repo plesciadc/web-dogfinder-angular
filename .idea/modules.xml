@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogfinder.iml" filepath="$PROJECT_DIR$/.idea/modules/dogfinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogfinder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dogfinder.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogfinder.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dogfinder.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/web-dogfinder-angular.iml" filepath="$PROJECT_DIR$/.idea/web-dogfinder-angular.iml" />
     </modules>
   </component>
